@@ -1,0 +1,15 @@
+{
+  "name": "gulp_starter",
+  "version": "0.0.1",
+  "description": "Starter Project for future projects. To be pushed to a repo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Anthony Gaona",
+  "license": "ISC"
+}
