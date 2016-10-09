@@ -1,3 +1,3 @@
 coffee = document.getElementById('coffee')
 
-coffee.innerHTML = "Coffeescript enabled"
+coffee.innerHTML = "Coffeescript enabled!"
